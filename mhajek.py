@@ -1,1 +1,1 @@
-arraya = [5, 4, 9, 12, 7]
+pole = ["oheň", "voda", "vítr", "kámen", "příroda"]
